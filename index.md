@@ -1,3 +1,17 @@
+# BITWISE JAVASCRIPT CURRICULUM
+### [WEEK ONE](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%201)
+### [WEEK TWO](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%202)
+### [WEEK THREE](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%203)
+### [WEEK FOUR](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%204)
+### [WEEK FIVE](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%205)
+### [WEEK SIX](https://github.com/ProjectErostribe/bw-javascript-curriculum/tree/main/Week%206)
+
+
+
+
+
+
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ProjectErostribe/bw-javascript-curriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
